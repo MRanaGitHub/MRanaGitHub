@@ -8,7 +8,7 @@
 
 ### About Me 🚀
 - 🔭 I'm building **Web Application**
-- 🌱 Currently mastering **Web Appliaction**
+- 🌱 Currently mastering **Reactjs, Nextjs and Nodjs**
 <!-- - 👨‍💻 All of my projects are available at [your portfolio link] -->
 <!-- - 📝 I regularly write articles on [your blog link] -->
 
